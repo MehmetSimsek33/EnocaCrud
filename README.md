@@ -9,6 +9,7 @@
 * Maven
 * Lombok
 * PostgreSQL
+* ModelMapper
 
 ### Run the Application
 Clone the source codes into your local system.
